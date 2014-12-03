@@ -1,18 +1,22 @@
 {
-    "name": "wenbin1989/yii2-curl",
+    "name": "TomaszKane/yii2-curl",
     "description": "cURL wrapper for yii2 framework",
     "keywords": ["yii", "yii2", "extension", "curl"],
-    "homepage": "https://github.com/wenbin1989/yii2-curl",
+    "homepage": "https://github.com/TomaszKane/yii2-curl",
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "email": "wenbin1989@gmail.com",
-        "source": "https://github.com/wenbin1989/yii2-curl"
+        "email": "tomasz.kane@gmail.com",
+        "source": "https://github.com/TomaszKane/yii2-curl"
     },
     "authors": [
         {
             "name": "wenbin wang",
             "email": "wenbin1989@gmail.com"
+        },
+        {
+            "name": "Tomasz Kane",
+            "email": "tomasz.kane@gmail.com"
         }
     ],
     "require": {
